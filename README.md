@@ -4,12 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>بیو گیت‌هاب من</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>سلام، من [نام شما] هستم!</h1>
+        <h1>سلام دوست عزیزم من علی اسپنانی هستم </h1>
         <p>من یک توسعه‌دهنده نرم‌افزار هستم که به تکنولوژی‌های زیر تسلط دارم:</p>
         <ul class="skills">
             <li>HTML</li>
