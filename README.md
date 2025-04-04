@@ -1,16 +1,24 @@
-## Hi there 👋
 
-
-##AliPaniashvili is a ✨ Softwear Programer ✨
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Freelansing
-- 🌱 I’m currently learning PWK
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: im Hacker
-
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بیو گیت‌هاب من</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>سلام، من [نام شما] هستم!</h1>
+        <p>من یک توسعه‌دهنده نرم‌افزار هستم که به تکنولوژی‌های زیر تسلط دارم:</p>
+        <ul class="skills">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Flutter</li>
+            <li>Golang</li>
+            <li>Python</li>
+            <li>Kali Linux</li>
+        </ul>
+    </div>
+</body>
+</html>
