@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <img src="https://github.com/AliPaniashvili/tasver/blob/main/FB_IMG_1741325257429.jpg">
     <div class="container">
         <h1>سلام، من علی اسپنانی هستم!</h1>
         <p>من یک توسعه‌دهنده نرم‌افزار هستم که به تکنولوژی‌های زیر تسلط دارم:</p>
