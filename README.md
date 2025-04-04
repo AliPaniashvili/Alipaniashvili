@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**AliPaniashvili/Alipaniashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##AliPaniashvili is a ✨ Softwear Programer ✨
 
 Here are some ideas to get you started:
 
