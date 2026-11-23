@@ -20,8 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AliPaniashvili&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/یه قهوه مهمونم کن .) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
