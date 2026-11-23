@@ -1,7 +1,7 @@
 <center>
 # 💫 علی اسپنانی
 </center>
-من برنامه نویس اندروید هستم همچنین در حال یادگیری عمیق هستم و به زودی به درجات بالاتر علمی از نظر خودم میرسم <br>توانایی های علی اسپنانی :<br>HTML<br>CSS<br>GO<br>Linux(Kali linux)<br>OWASP <br>Python <br>
+
 
 
 # 💻 Tech Stack:
